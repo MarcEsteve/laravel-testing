@@ -1,4 +1,4 @@
-<p align="center">## About Laravel testing</p>
+## About Laravel testing
 
 Repositorio de pruebas sobre Laravel y formaciones.
 
